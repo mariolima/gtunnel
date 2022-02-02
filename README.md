@@ -1,6 +1,6 @@
 # gTunnel Fork
 
-Original:
+Original (https://github.com/hotnops/gtunnel):
 > A TCP tunneling suite built with golang and gRPC. gTunnel can manage multiple forward and reverse tunnels that are all carried over a single TCP/HTTP2 connection. I wanted to learn a new language, so I picked go and gRPC. Client executables have been tested on windows and linux.
 
 My changes + additions:
